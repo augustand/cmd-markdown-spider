@@ -8,6 +8,6 @@ tdb = TinyDB(DB_PATH)
 
 class TbName(object):
     Tags = 'tags'
-    Blogs = 'blogs'
+    Headers = 'headers'
 
 
